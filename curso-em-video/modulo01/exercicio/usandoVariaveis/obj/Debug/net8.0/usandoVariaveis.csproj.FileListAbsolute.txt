@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\bin\Debug\net8.0\usandoVariaveis.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\bin\Debug\net8.0\usandoVariaveis.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\bin\Debug\net8.0\usandoVariaveis.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\bin\Debug\net8.0\usandoVariaveis.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\bin\Debug\net8.0\usandoVariaveis.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\refint\usandoVariaveis.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\usandoVariaveis.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\usandoVariaveis\obj\Debug\net8.0\ref\usandoVariaveis.dll

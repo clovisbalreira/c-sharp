@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\bin\Debug\net8.0\conversaoTipos.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\bin\Debug\net8.0\conversaoTipos.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\bin\Debug\net8.0\conversaoTipos.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\bin\Debug\net8.0\conversaoTipos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\bin\Debug\net8.0\conversaoTipos.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\refint\conversaoTipos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\conversaoTipos.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\conversaoTipos\obj\Debug\net8.0\ref\conversaoTipos.dll

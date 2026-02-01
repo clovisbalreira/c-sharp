@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\bin\Debug\net8.0\mostrar.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\bin\Debug\net8.0\mostrar.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\bin\Debug\net8.0\mostrar.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\bin\Debug\net8.0\mostrar.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\bin\Debug\net8.0\mostrar.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\refint\mostrar.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\mostrar.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\mostrar\obj\Debug\net8.0\ref\mostrar.dll

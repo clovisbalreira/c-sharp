@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "olamunndo-forms/1.0.0": {
+        "runtime": {
+          "olamunndo-forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "olamunndo-forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

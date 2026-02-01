@@ -1,0 +1,14 @@
+﻿<Window x:Class="olamundo_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:olamundo_wpf"
+        mc:Ignorable="d"
+        Title="Primeiro Programa C#" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn" Content="Clique em min" Margin="0,278,0,0" VerticalAlignment="Top" Click="btn_Click" HorizontalAlignment="Center" IsHitTestVisible="False"/>
+        <Label x:Name="lblMsg" Content="" HorizontalAlignment="Left" Height="122" Margin="142,50,0,0" VerticalAlignment="Top" Width="548" AutomationProperties.Name="" HorizontalContentAlignment="Center" FontSize="26"/>
+
+    </Grid>
+</Window>

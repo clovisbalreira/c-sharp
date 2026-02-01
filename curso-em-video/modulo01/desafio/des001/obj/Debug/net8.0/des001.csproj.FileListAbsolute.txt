@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\bin\Debug\net8.0\des001.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\bin\Debug\net8.0\des001.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\bin\Debug\net8.0\des001.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\bin\Debug\net8.0\des001.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\bin\Debug\net8.0\des001.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\refint\des001.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\des001.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\desafio\des001\obj\Debug\net8.0\ref\des001.dll

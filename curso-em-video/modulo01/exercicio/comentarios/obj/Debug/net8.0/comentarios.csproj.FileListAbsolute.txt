@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\bin\Debug\net8.0\comentarios.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\bin\Debug\net8.0\comentarios.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\bin\Debug\net8.0\comentarios.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\bin\Debug\net8.0\comentarios.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\bin\Debug\net8.0\comentarios.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\refint\comentarios.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\comentarios.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\comentarios\obj\Debug\net8.0\ref\comentarios.dll

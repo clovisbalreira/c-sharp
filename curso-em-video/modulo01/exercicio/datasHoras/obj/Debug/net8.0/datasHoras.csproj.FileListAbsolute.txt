@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\bin\Debug\net8.0\datasHoras.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\bin\Debug\net8.0\datasHoras.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\bin\Debug\net8.0\datasHoras.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\bin\Debug\net8.0\datasHoras.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\bin\Debug\net8.0\datasHoras.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\refint\datasHoras.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\datasHoras.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\datasHoras\obj\Debug\net8.0\ref\datasHoras.dll

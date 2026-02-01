@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\bin\Debug\net8.0\entradaDados.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\bin\Debug\net8.0\entradaDados.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\bin\Debug\net8.0\entradaDados.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\bin\Debug\net8.0\entradaDados.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\bin\Debug\net8.0\entradaDados.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\refint\entradaDados.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\entradaDados.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\entradaDados\obj\Debug\net8.0\ref\entradaDados.dll

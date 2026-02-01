@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\bin\Debug\net8.0\formatacao.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\bin\Debug\net8.0\formatacao.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\bin\Debug\net8.0\formatacao.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\bin\Debug\net8.0\formatacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\bin\Debug\net8.0\formatacao.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\refint\formatacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\formatacao.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\formatacao\obj\Debug\net8.0\ref\formatacao.dll

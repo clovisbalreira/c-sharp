@@ -1,0 +1,16 @@
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\bin\Debug\net8.0-windows\olamunndo-forms.exe
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\bin\Debug\net8.0-windows\olamunndo-forms.deps.json
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\bin\Debug\net8.0-windows\olamunndo-forms.runtimeconfig.json
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\bin\Debug\net8.0-windows\olamunndo-forms.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\bin\Debug\net8.0-windows\olamunndo-forms.pdb
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo_forms.Form1.resources
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.csproj.GenerateResource.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.AssemblyInfoInputs.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.AssemblyInfo.cs
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.csproj.CoreCompileInputs.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\refint\olamunndo-forms.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.pdb
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\olamunndo-forms.genruntimeconfig.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamunndo-forms\olamunndo-forms\obj\Debug\net8.0-windows\ref\olamunndo-forms.dll

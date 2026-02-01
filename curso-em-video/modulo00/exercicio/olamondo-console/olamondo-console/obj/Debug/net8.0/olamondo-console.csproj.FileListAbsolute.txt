@@ -1,0 +1,14 @@
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\bin\Debug\net8.0\olamondo-console.exe
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\bin\Debug\net8.0\olamondo-console.deps.json
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\bin\Debug\net8.0\olamondo-console.runtimeconfig.json
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\bin\Debug\net8.0\olamondo-console.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\bin\Debug\net8.0\olamondo-console.pdb
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.AssemblyInfoInputs.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.AssemblyInfo.cs
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.csproj.CoreCompileInputs.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\refint\olamondo-console.dll
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.pdb
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\olamondo-console.genruntimeconfig.cache
+D:\git-hub\C-\curso-em-video\modulo00\exercicio\olamondo-console\olamondo-console\obj\Debug\net8.0\ref\olamondo-console.dll

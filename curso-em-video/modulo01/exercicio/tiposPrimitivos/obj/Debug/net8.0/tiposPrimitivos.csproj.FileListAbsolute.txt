@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\bin\Debug\net8.0\tiposPrimitivos.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\bin\Debug\net8.0\tiposPrimitivos.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\bin\Debug\net8.0\tiposPrimitivos.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\bin\Debug\net8.0\tiposPrimitivos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\bin\Debug\net8.0\tiposPrimitivos.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\refint\tiposPrimitivos.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\tiposPrimitivos.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\tiposPrimitivos\obj\Debug\net8.0\ref\tiposPrimitivos.dll

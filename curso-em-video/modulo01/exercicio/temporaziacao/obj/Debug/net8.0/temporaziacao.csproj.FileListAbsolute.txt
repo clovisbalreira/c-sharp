@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\bin\Debug\net8.0\temporaziacao.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\bin\Debug\net8.0\temporaziacao.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\bin\Debug\net8.0\temporaziacao.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\bin\Debug\net8.0\temporaziacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\bin\Debug\net8.0\temporaziacao.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\refint\temporaziacao.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\temporaziacao.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\temporaziacao\obj\Debug\net8.0\ref\temporaziacao.dll

@@ -1,0 +1,15 @@
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\bin\Debug\net8.0\contantes.exe
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\bin\Debug\net8.0\contantes.deps.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\bin\Debug\net8.0\contantes.runtimeconfig.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\bin\Debug\net8.0\contantes.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\bin\Debug\net8.0\contantes.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.AssemblyInfoInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.AssemblyInfo.cs
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.csproj.CoreCompileInputs.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.sourcelink.json
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\refint\contantes.dll
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.pdb
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\contantes.genruntimeconfig.cache
+D:\git-hub\c-sharp\curso-em-video\modulo01\exercicio\contantes\obj\Debug\net8.0\ref\contantes.dll
